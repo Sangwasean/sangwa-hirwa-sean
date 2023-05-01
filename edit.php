@@ -88,7 +88,7 @@ else{
 </head>
 <body>
   <div class="container my-5">
-    <h2>New client</h2>
+    <h2>Update client</h2>
     <?php
     if(!empty($errorMessage)){
         echo "
